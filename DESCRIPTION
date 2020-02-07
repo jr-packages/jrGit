@@ -1,7 +1,7 @@
 Type: Package
 Package: jrGit
 Title: Jumping Rivers: Introduction to Git and Travis
-Version: 0.0.0
+Version: 0.0.1
 Authors@R: 
     person(given = "Jumping",
            family = "Rivers",
