@@ -22,4 +22,4 @@ We are going to start off by cloning a repository from GitLab. Follow the instru
 
 9. Enter your GitLab password.
 
-You now have a full copy of the files\sidenote{In this case, just the one} in the jrGitpractice remote repository, saved on your local machine. 
+You now have a full copy of the files\sidenote{In this case, just the one} in the jrGitpractice remote repository, saved on your local machine.
