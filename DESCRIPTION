@@ -1,7 +1,7 @@
 Type: Package
 Package: jrGit
 Title: Jumping Rivers: Introduction to Git and Travis
-Version: 0.0.4
+Version: 0.0.5
 Authors@R: 
     person(given = "Jumping",
            family = "Rivers",
@@ -12,7 +12,7 @@ Description: Introduction to Git and Travis course material run
 License: GPL-3
 URL: https://www.jumpingrivers.com/
 Depends:
-    R (>= 3.2.0)
+    R (>= 3.5.0)
 Suggests:
     formatR,
     knitr,

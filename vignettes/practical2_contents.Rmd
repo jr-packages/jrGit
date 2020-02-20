@@ -64,3 +64,7 @@ This practical is designed to give you some practice in creating branches, pushi
    # repository. This is because we kept the box
    # next to "Sync branch with remote" ticked.
    ```
+
+```{r, eval= FALSE, echo = TRUE}
+vignette("solutions2", package = "jrGit")
+```
