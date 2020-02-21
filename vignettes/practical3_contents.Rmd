@@ -8,6 +8,8 @@ Follow the instructions to get a local copy of a remote repository nested within
 
 1. Go to \url{https://gitlab.com/jumpingrivers-notes/r/jrgit_terminal}.
 
+2. Fork the repository to your GitLab account, as we did in practical 1. 
+
 2. Click the icon to the right of "Clone with HTTPS".
 
 3. Go to the terminal tab next to the console tab\sidenote{If a terminal tab is not visible, go to Tools -> Terminal -> New Terminal.}.
