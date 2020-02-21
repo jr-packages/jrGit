@@ -69,7 +69,8 @@ weatherAUS %>%
    
 ```{r, tidy=TRUE, tidy.opts=list(width.cutoff=60) }
 weatherAUS %>%
-  filter(Location == "Melbourne" & RainToday == "Yes" & RainTomorrow == "Yes") %>%
+  filter(Location == "Melbourne" & RainToday == "Yes" &
+         RainTomorrow == "Yes") %>%
   nrow()
 ```
 
@@ -90,4 +91,3 @@ ggplot(albury_data, aes(x = Humidity9am, y = Temp3pm)) +
 \end{center}
 
 \noindent{If you have time you can do some further analysis, you have free reign to do some further analysis!}
-   
