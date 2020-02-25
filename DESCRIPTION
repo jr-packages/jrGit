@@ -1,7 +1,7 @@
 Type: Package
 Package: jrGit
 Title: Jumping Rivers: Introduction to Git and Travis
-Version: 0.0.6
+Version: 0.0.7
 Authors@R: 
     person(given = "Jumping",
            family = "Rivers",
@@ -15,7 +15,8 @@ Depends:
     R (>= 3.5.0)
 Imports:
     dplyr,
-    ggplot2
+    ggplot2,
+    usethis
 Suggests:
     formatR,
     knitr,
